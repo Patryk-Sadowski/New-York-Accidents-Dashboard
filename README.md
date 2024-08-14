@@ -10,7 +10,7 @@ This project provides an in-depth analysis about collision of vahicle reported b
 ## Launch
 To interact with the dashboard:
 1. Download the repository to your machine.
-2. Open the `.twbx` file in [Tableau Desktop](https://www.tableau.com/products/desktop/download) (14 days trial) to perform Data Analysis or download [Tableau Public](https://www.tableau.com/products/public/download) (Free).
+2. Open the `.twbx` file in [Tableau Desktop](https://www.tableau.com/products/desktop/download) (14 days trial) to perform Data Analysis or see the visualization on my profile at [Tableau Public](https://public.tableau.com/app/profile/patryk.sadowski/vizzes)
 3. You can freely explore the dashboard using the available filters as needed.
 
 ## Data Source
