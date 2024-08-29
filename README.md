@@ -22,10 +22,10 @@ To interact with the dashboard:
 
 ## Data Visualization Using [Tableau](https://public.tableau.com/app/profile/patryk.sadowski/viz/NYAccidentsDashboard/VictimsDetails)
 
-![1](https://github.com/user-attachments/assets/2889ac3d-634c-4071-9996-c8f8bda8657e)
+![1](https://github.com/user-attachments/assets/d799f3d0-3eb1-46b8-ba5a-3b3c5c350376)
 
 ---------------------------------------------------------------------------------------
-![2](https://github.com/user-attachments/assets/af4c20f8-6488-4605-833c-32cc15e9aa62)
+![2](https://github.com/user-attachments/assets/93239ad7-da99-4ae5-ac70-57e6daf24499)
 
 ## Data Source
 
