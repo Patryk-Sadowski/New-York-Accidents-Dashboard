@@ -20,7 +20,7 @@ To interact with the dashboard:
 2. Open the `.twbx` file in [Tableau Desktop](https://www.tableau.com/products/desktop/download) (14 days trial) to perform Data Analysis or see the visualization on my profile at [Tableau Public](https://public.tableau.com/app/profile/patryk.sadowski/vizzes)
 3. You can freely explore the dashboard using the available filters as needed.
 
-## Data Visualization Using Tableau
+## Data Visualization Using [Tableau](https://public.tableau.com/app/profile/patryk.sadowski/viz/NYAccidentsDashboard/VictimsDetails)
 
 ![1](https://github.com/user-attachments/assets/2889ac3d-634c-4071-9996-c8f8bda8657e)
 
